@@ -1,5 +1,8 @@
 {
   "projects": {
-    "default": "movies-for-u-fa3f0"
-  }
+    "default": "movies-for-u-fa3f0",
+    "staging": "movies-for-u-fa3f0"
+  },
+  "targets": {},
+  "etags": {}
 }
